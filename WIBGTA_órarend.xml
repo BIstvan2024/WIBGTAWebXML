@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="WIBGTA_orarend.xsl"?>
+
+<!--<!DOCTYPE orarend SYSTEM "WIBGTA_orarend.dtd">-->
+
+<WIBGTA_orarend> xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="WIBGTA_orarend"
+
+
+
+        <ora id="01" típus="gyakorlat">
+            <targy>Számításelmélet</targy>
+            <idopont>
+                <nap>Hétfő</nap>
+                <tol>9</nap>
+                <ig>12</ig>
+            </idopont>
+            <helyszín>Online</helyszín>
+            <oktato>Dr. Veres Laura</oktato>
+            <szak>Programtervező-Informatikus BSc</szak>
+        </ora>
+
+        <ora id="02" típus="Elmélet">
+            <targy>Operációs Rendszerek</targy>
+            <idopont>
+                <nap>Kedd</nap>
+                <tol>8</nap>
+                <ig>9:30</ig>
+            </idopont>
+            <helyszín>Informatikaterem 124-es</helyszín>
+            <oktato>Dr. Bednarik László</oktato>
+            <szak>Programtervező-Informatikus BSc</szak>
+        </ora>
+
+        
+                
